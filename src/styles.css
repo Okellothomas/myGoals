@@ -16,3 +16,6 @@ p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:rgb(10, 7, 7);
 }
+.margin_none{
+    margin: 0;
+}
